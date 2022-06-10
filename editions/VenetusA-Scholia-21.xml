@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Venetus A Main Scholia</title>
-                <author>YOUR NAME HERE</author>
+                <author>Rebecca Rose Kaczmarek</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -230,6 +230,8 @@
                             <p>γράφεται καὶ <q>ἔνθορε</q>. ἐν ενίαις δ’ αῖψ’ ἐσόρουσεν ⁑</p>
                         </div>
                     </div>
+
+
                     <div n="270v_1" type="scholion">
                         <div n="lemma">
                             <p>τοὺς αὐτοὶ φορέεσκον</p>
@@ -365,6 +367,8 @@
                                 λοιπὰ δια μέσου διορθωτέον ⁑</p>
                         </div>
                     </div>
+
+
                     <div n="271r_1" type="scholion">
                         <div n="lemma">
                             <p>ἦ μάλα δὴ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρῶες</rs>,
@@ -433,6 +437,8 @@
                         </div>
                     </div>
                     
+
+
                     <div n="271v_1" type="scholion">
                         <div n="lemma">
                             <p>‡ πὰρ γαρ σοὶ πρώτῳ πασάμην:</p>
@@ -448,8 +454,7 @@
                                     <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεῖ</persName>
                                 ἐγεγόνει φησί</p>
                         </div>
-                    </div>
-                    
+                    </div>                  
                     <div n="271v_2" type="scholion">
                         <div n="lemma">
                             <p> Ἄλτεω ὃς Λελέγεσσι,</p>
@@ -464,19 +469,17 @@
                                 ὀνόματος ⁑</p>
                         </div>
                     </div>
-
                     <div n="271v_3" type="scholion">
                         <div n="lemma">
-                            <p> ν῀θν δε δὴ ἐνθα δε'</p>
+                            <p> νῦν δε δὴ ἐνθα δέ μοι:</p>
                         </div>
                         <div n="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.86</p>
                         </div>
                         <div n="comment">
-                            <p>μοι: ἄμεὶν ἀπολώτως ἀναγινάσκειν προς γαρ τινὰ ἡ διαστολή</p>
+                            <p>ἄμεινον ἀπολύτως ἀναγινώσκειν προς γαρ τινὰ ἡ διαστολή</p>
                         </div>
                     </div>
-
                     <div n="271v_4" type="scholion">
                         <div n="lemma">
                             <p>μή με κτείν’.</p>
@@ -500,6 +503,9 @@
                                 </cit>⁑</p>
                         </div>
                     </div>
+
+
+
                     <div n="272r_1" type="scholion">
                         <div n="lemma">
                             <p>‡ τόφρα τί μοι πεφιδέσθαι:</p>
@@ -522,94 +528,92 @@
                                 ετέρας ἀρχῆς τίη ὀλοφύρεαι; </p>
                         </div>
                     </div>
-                    <div n="27" type="scholion">
+                    <div n="272r_2" type="scholion">
                         <div n="lemma">
-                            <p>ἀλλ επί τοι καὶ ἐμοὶ.</p>
+                            <p> ἀλλ επί τοι καὶ ἐμοὶ,</p>
                         </div>
                         <div n="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.110</p>
                         </div>
                         <div n="comment">
-                            <p>
-                                <choice>
-                                    <abbr>Ἀρισταρχ</abbr>
-                                    <expan>Ἀρισταρχός</expan>
-                                </choice> φασὶ τὴν επι ἀναστρέψαι ἵνα σημαίνῃ τὸ ἔπεστιν ὁμοίως τῷ <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:11.367</ref>
-                                    <q>σοὶ δ' ἔπι μὲν μορφῂ ἐπέων</q>
-                                </cit>. οὶ δ' ἐφύλαξαν <choice>
-                                    <sic>τόν</sic>
-                                    <corr>τὸν</corr>
-                                </choice> τόνον τῇ ἐμοὶ ἀντωνυμίᾳ συντάσσοντες αὐτὴν ὥστε τὸ ἑξῆς
-                                εἶναι <q>ἀλλα καὶ ἐπ ἐμοί</q>. καὶ οὕτως ἔχει τὰ τῆς ἀναγνώσεως:</p>
+                            <p> <choice><abbr>Ἀρισταρχ</abbr><expan>Ἀρισταρχος</expan></choice>  φασὶ τὴν <q>επι</q> ἀναστρέψαι 
+                            ἵνα σημαίνῃ <q>τὸ ἔπεστιν</q> 
+                            
+                            ὁμοίως τῷ <cit><ref>urn:cts:greekLit:tlg0012.tlg002:11.367</ref><q>σοὶ δ' ἔπι μεν μορφῇ ἐπέων</q></cit>
+
+                            οἱ δ' ἐφύλαξαν <choice><sic>τόν</sic><corr>τὸν</corr></choice> τόνον τῇ <q>ἐμοί</q> ἀντωνυμία, συντάσσοντες αὐτήν
+                             ὥστε τὸ ἑξῆς εἶναι <q>ἀλλα καὶ ἐπ ἐμοί</q>, 
+                             καὶ οὕτως ἔχει τὰ τῆς ἀναγνώσεως: 
+
+                            στικτέον δὲ κατα τo τέλος τοῦ <choice><sic>στίκου</sic><corr>στίχου</corr></choice> το: ὡς καὶ τοῖς περι Ἀρίσταρχον ἐδοκει λείπει γὰρ τὸ <q>ἐστι</q>  ῥῆμα 
+                              τὸ δὲ ἑξῆς ἀφ ετερας ἀρχῆς: <cit><ref>urn:cts:greekLit:tlg0012.tlg001:21.111</ref>
+                              <q>ἔσσεται ἠ ἠως ἠ δείλη ἢ μέσον ἦμαρ</q></cit>
+
+                              ἔσται δὲ ὁ λόγος τοιοῦτος. <q>ἔσται τίς ὄρθρος ἠ καὶ μεσημβρίᾳ
+                              ἠ καὶ δειλινη ώρα,
+                               καθ ὴν μέ τις <choice><sic>ὰνέλη</sic><corr>ἀνέλη</corr></choice></q> οὕτως δὲ χωρὶς τοῦ <rs type="waw">ς</rs> γραπτέον, 
+                               ὡς καὶ Διδύμῳ δοκεῖ ἐν <title n="urn:cite2:hmt:citedworks.v1:work8">τῇ διορθώσει</title>  </p>
                         </div>
-                    </div>
-                    <div n="28" type="scholion">
+                    </div>  
+                    <div n="272r_3" type="scholion">
                         <div n="lemma">
-                            <p/>
-                        </div>
-                        <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.110</p>
-                        </div>
-                        <div n="comment">
-                            <p>στικτέον δὲ κατα το τέλος τοῦ <choice>
-                                    <sic>στίκου</sic>
-                                    <corr>στίχου</corr>
-                                </choice> το: ὡς καὶ τοῖς περὶ <persName
-                                    n="urn:cite2:hmt:pers.v1:pers16">Ἀρίσταρχον</persName> ἐδοκει λείπει
-                                γὰρ τὸ ἐστι ῥῆμα τὸ δὲ ἑξῆς ἀφ ετερας ἀρχῆς. <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.111</ref>
-                                    <q>ἔσσεται ὴ ἠώς ἠ δείλης, ἢ μέσον ῆμαρ</q>
-                                </cit>. ἔσται δὲ ὁ λόγος τοιοῦτος. ἔσται τις ὄρθρος ἠ καὶ μεσημβρίᾳ
-                                ἠ καὶ δειλινη ώρα καθ ὴν μέ τις ἀνέλη οὕτως δὲ χωρὶς τοῦ <rs
-                                    type="waw">ς</rs> γραπτέον ὡς καὶ <persName
-                                    n="urn:cite2:hmt:pers.v1:pers175">Διδύμῳ</persName> δοκεῖ ἐν τῇ
-                                διορθώσει ⁑</p>
-                        </div>
-                    </div>
-                    <div n="29" type="scholion">
-                        <div n="lemma">
-                            <p>ἔσσεται ἢ ἠὼς </p>
+                            <p> ἔσσεται ἢ ἠὼς</p>
                         </div>
                         <div n="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.111</p>
                         </div>
                         <div n="comment">
-                            <p>ὅτι ἄλην τὴν ἡμέραν εἰς τρία διαιρεῖ. <choice>
+                            <p> ὅτι ἄλην τὴν ἡμέραν εἰς τρία διαιρεῖ. <choice>
                                     <sic>ἠὼ</sic>
                                     <corr>ἠῶ</corr>
-                                </choice> τὴν πρωΐαν μεσημβρίαν πᾶν τὸ μέσον τῆς ἡμέρας. δείλην: ὅτε
-                                ἐνδεῖ ἡ τοῦ ἡλίου έλη τουτέστιν ἡ αὐγή ὥσπερ καὶ τὴν νύκτα εἰς τρία.
+                                </choice> τὴν πρωΐαν, μεσημβρίαν πᾶν τὸ μέσον τῆς ἡμέρας. δείλην: ὅτε
+                                ἐνδεῖ ἡ τοῦ ἡλίου έλη τοῦτέστιν ἡ αὐγή ὥσπερ καὶ τὴν νύκτα εἰς τρία.
                                 ἑσπέραν ἀμολγόν ἑώαν ⁑</p>
                         </div>
-                    </div>
-                    <div n="30" type="scholion">
+                    </div> 
+                    <div n="272r_4" type="scholion">
                         <div n="lemma">
-                            <p>ἔγχος μέν ρ’ ἀφέηκεν ὁδ’ έζετο χείρε πετάσσας:</p>
+                            <p>ἔγχος μέν ῤ ἀφέηκεν ὁδ' έζετο χείρε πετάσσας:</p>
                         </div>
-                        <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.115-21.122</p>
-                        </div>
+                        <div n="ref"><p>urn:cts:greekLit:tlg0012.tlg001.msA:21.115-21.122</p></div>
                         <div n="comment">
                             <p>ἀπογνοῦς καν τὸν σύντομον αἱρεῖται θάνατον ἐνταῦθῷ: τὸ <q>ἐνταυθῷ</q>
                                 περισπαστέον ἐστι γὰρ ἀπο τοῦ <q>ἐνταῦθα</q> Ἀττικοῦ. οἱ δὲ
                                     <q>ἐνταυθοῖ ῆσο</q> δασυντέον δὲ τὸ <q>ῆσο</q>: φέρεται δὲ καὶ ἡ
-                                    <q>κεῖσο</q> γραφή ⁑</p>
-                        </div>
+                                    <q>κεῖσο</q> γραφή ⁑ </p></div>
                     </div>
-                    <div n="31" type="scholion">
+                    <div n="272r_5" type="scholion">
                         <div n="lemma">
-                            <p>ἀκηδέες</p>
+                            <p>ἀκηδέες,</p>
                         </div>
-                        <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.123</p>
-                        </div>
+                        <div n="ref"><p>urn:cts:greekLit:tlg0012.tlg001.msA:21.123</p></div>
                         <div n="comment">
                             <p>ὡς εὐσεβέες ἵνα αὐτοὶ οἱ ἰχθύες
                                 ἔχωσι τὸ ἐπίθετον τουτέστι μηδεμίαν φροντίδα
-                                ἔχοντες ⁑</p>
+                                ἔχοντες ⁑</p></div>
+                    </div>
+                    <div n="272r_6" type="scholion">
+                        <div n="lemma">
+                            <p>οἵσει δινήεις εἴσω:</p>
+                        </div>
+                        <div n="ref"><p>urn:cts:greekLit:tlg0012.tlg001.msA:21.125</p></div>
+                        <div n="comment">
+                            <p>
+                            ὅτι τὸ <q>εἴσω</q> ἰσοδυναμεῖ τῷ <q>εῖς</q> ἀντι τοῦ <q>εἰς ἁλός</q>⁑ </p></div>
+                    </div>
+
+                    <div n="272v_1" type="scholion">
+                        <div n="lemma">
+                            <p>‡ θρῴσκων τις κατα κῦμα μέλαιναν φρῖχ' ὑπαΐξει:</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.126</p>
+                        </div>
+                        <div n="comment">
+                            <p>προς τὸ σημαινόμενον· Φιλητᾶς γὰρ καὶ Καλλίστρατος γράφουσι „φρῖχ' ὑπαλύξει“ (126), λέγοντες ὅτι οἱ πίονες τῶν ἰχθύων καὶ εὔτροφοι τὸ ψῦχος ὑπομένουσι καὶ οὐ φθείρονται. ὁ δὲ ποιητὴς οὐδέποτε φρίκην τὸ ψῦχος εἴρηκεν, ἀλλὰ τὸ ἐκ γαλήνης πρῶτον ἐξορθούμενον κῦμα. ὁμωνύμως δὲ τούτῳ καὶ τὸν ἄνεμον τὸν οἱονεὶ ἐπιστίζοντα τὴν θάλασσαν· „οἵη δὲ Ζεφύροιο ἐχεύατο πόντον ἔπι φρίξ“ (Η 63) καὶ „ὡς δ'  ὑπὸ φρικὸς Βορέω“ (Ψ 692). ἡμεῖς δὲ λέγομεν ψῦχος κρύος καὶ πάχνην. ἔστιν οὖν τὸ λεγόμενον, μέλαιναν φρῖχ' ὑπαΐξει (126), τὸ μέλαν κῦμα ὑποτροχάσεται ἰχθύς, ὃς φάγοι ἂν τοῦ Λυκάονος τὸν δημόν, ἐπιπολάζοντος καὶ ἐξ ἐπιπολῆς φερομένου τοῦ νεκροῦ· τὸ γὰρ ὅς κε φάγῃσι (127) ὃς φάγοι ἄν. καὶ ἐν Ὀδυσσείᾳ (α 396) „τῶν κέν τις τόδ' ἔχῃσι“ ὃς ἔχοι ἄν⁑</p>
                         </div>
                     </div>
+                    
                     <!--     <div n="" type="scholion">
                         <div n="lemma">
                             <p/>
@@ -739,7 +743,7 @@
                                     </choice></q></p>
                         </div>
                     </div>
-                    <div n="7" type="scholion">
+                    <div n="271v_5" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
@@ -750,7 +754,7 @@
                             <p>ἐν ἄλλω <q>καί με περάσας</q></p>
                         </div>
                     </div>
-                    <div n="8" type="scholion">
+                    <div n="271v_6" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
@@ -761,7 +765,7 @@
                             <p>λυτρωθείην ἀν τριπλάσια δίδω σοι</p>
                         </div>
                     </div>
-                    <div n="9" type="scholion">
+                    <div n="271v_7" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
@@ -775,7 +779,7 @@
                                     </choice></persName> Ϊακῶς <q>δῶκε</q> ⁑</p>
                         </div>
                     </div>
-                    <div n="10" type="scholion">
+                    <div n="271v_8" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
@@ -787,7 +791,7 @@
                                 <q>πολλῶν τὲ καὶ ἄλλων</q></p>
                         </div>
                     </div>
-                    <div n="11" type="scholion">
+                    <div n="271v_9" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
@@ -798,7 +802,7 @@
                             <p>ἐν αλλῳ <q>κακὸν έσσεαι</q> ⁑</p>
                         </div>
                     </div>
-                    <div n="12" type="scholion">
+                    <div n="272r_7" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
@@ -812,7 +816,7 @@
                                 </choice>: <q>τόφρα δέ μοι</q>: </p>
                         </div>
                     </div>
-                    <div n="13" type="scholion">
+                    <div n="272r_8" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
@@ -827,10 +831,10 @@
                                         </choice></sic>
                                     <corr>αλλω</corr>
                                 </choice>
-                                <q>ἠδὲ πέρασσα</q>: </p>
+                                <q>ἠδε πέρασσα</q>: </p>
                         </div>
                     </div>
-                    <div n="14" type="scholion">
+                    <div n="272r_9" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
@@ -844,7 +848,7 @@
                                 </choice> δια τοῦ <rs type="waw">ο</rs> ἅπασαι <q>ούτως</q>:</p>
                         </div>
                     </div>
-                    <div n="15" type="scholion">
+                    <div n="272r_10" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
@@ -859,7 +863,7 @@
                             </p>
                         </div>
                     </div>
-                    <div n="16" type="scholion">
+                    <div n="272r_11" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
@@ -874,7 +878,7 @@
                                 <q>δείλη</q> ⁑</p>
                         </div>
                     </div>
-                    <div n="17" type="scholion">
+                    <div n="272r_12" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
@@ -979,7 +983,7 @@
                                 </choice> οὐκ εῖπεν ⁑</p>
                         </div>
                     </div>
-                    <div n="3" type="scholion">
+                    <div n="271v_10" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
@@ -994,7 +998,7 @@
                                 </choice> αντι <q>έοικα ἀπεχθάνεσθαι</q> ⁑</p>
                         </div>
                     </div>
-                    <div n="4" type="scholion">
+                    <div n="271v_11" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
@@ -1008,7 +1012,7 @@
                                 </choice> πόλεις <q>ἄνασσε</q>: ⁑</p>
                         </div>
                     </div>
-                    <div n="5" type="scholion">
+                    <div n="272r_13" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
@@ -1026,7 +1030,7 @@
                                     </choice></q>:</p>
                         </div>
                     </div>
-                    <div n="6" type="scholion">
+                    <div n="272r_14" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
@@ -1037,7 +1041,7 @@
                             <p>διχῶς, <q>κεῖσο</q>: καὶ <q>ῆσο</q> ⁑ </p>
                         </div>
                     </div>
-                    <div n="7" type="scholion">
+                    <div n="272r_15" type="scholion">
                         <div n="lemma">
                             <p/>
                         </div>
