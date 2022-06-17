@@ -464,8 +464,8 @@
                         </div>
                         <div n="comment">
                             <p>ὅτι τοὺς <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers777">Λέλεγας</rs>
-                                ἐν <title><ref n="urn:cts:greekLit:tlg0012.tlg001:2.484-2.875"
-                                        >Καταλόγῳ</ref></title> παρήκεν καὶ προς τὴν ἐπανάληψιν τοῦ
+                                ἐν <title><ref n="urn:cts:greekLit:tlg0012.tlg001:2.484-2.875">
+                                        Καταλόγῳ</ref></title> παρήκεν καὶ προς τὴν ἐπανάληψιν τοῦ
                                 ὀνόματος ⁑</p>
                         </div>
                     </div>
@@ -667,7 +667,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.142</p>
                         </div>
                         <div n="comment">
-                            <p>ὀξυτονητέον τὸ <persName n="urn:cite2:hmt:pers.v1:pers1120">Ἀκεσσαμενός</persName> ἵνα ὄνομα γένηται οὕτως δὲ ἔχει καὶ Δαξαμενός Τισαμενός ⁑</p>
+                            <p>ὀξυτονητέον τὸ <persName n="urn:cite2:hmt:pers.v1:pers1120">Ἀκεσσαμενός</persName> ἵνα ὄνομα γένηται οὕτως δὲ ἔχει καὶ <q>Δαξαμενός</q> <q>Τισαμενός</q> ⁑</p>
                         </div>
                     </div>
                     <div n="273r_1" type="scholion">
@@ -678,7 +678,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.155</p>
                         </div>
                         <div n="comment">
-                            <p> ὅτι ετερος ουτος <rs type="ethnic" n="urn:cite2:hmt:place.v1:place243">Παιόνων</rs> ηγεμὼν ὃν οὐ κατειλοχε δια τοῦ Καταλόγου⁑</p>
+                            <p> ὅτι ετερος ουτος <rs type="ethnic" n="urn:cite2:hmt:place.v1:place243">Παιόνων</rs> ηγεμὼν ὃν οὐ κατειλοχε δια <title n="urn:cts:greekLit:tlg0012.tlg001:2">τοῦ Καταλόγου</title>⁑</p>
                         </div>
                     </div>
                     <div n="273r_2" type="scholion">
@@ -689,7 +689,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.155</p>
                         </div>
                         <div n="comment">
-                            <p> ὡς εὐειδέας παραιτητέον γὰρ τοὺς ἄλλως ἀναγινώσκοντας ⁑</p>
+                            <p> ὡς εὐειδέας παραιτητέον γὰρ τοὺς <choice><sic>ἄλλως</sic><corr>ἄλλους</corr></choice> ἀναγινώσκοντας ⁑</p>
                         </div>
                     </div>
                     <div n="273r_3" type="scholion">
@@ -697,10 +697,69 @@
                             <p>ὁ δ' ἁμαρτῇ: </p>
                         </div>
                         <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.162</p>
+                        </div>
+                        <div n="comment">
+                            <p>  <persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρίσταρχος</persName> ἀποκοπὴν εἶναι βούλεται τοῦ ἁμαρτήδην ὅ ἐστιν ἅμα διὸ καὶ χωρὶς τοῦ <rs type="waw">ϊ</rs> γράφεται: ἐν δὲ <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001"></ref><placeName n="urn:cite2:hmt:place.v1:place28">τῇ Μασσαλιωτικῇ</placeName></title> <q>ὁ δ' ἁμαρτῇ δούρασιν ἄμφω</q> καὶ λόγον ἔχει ⁑</p>
+                        </div>
+                    </div>
+                    <div n="273r_4" type="scholion">
+                        <div n="lemma">
+                            <p> ἁμαρτῇ </p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.162</p>
+                        </div>
+                        <div n="comment">
+                            <p> περισπαστέον καὶ συν τῷ <rs type="waw">ϊ</rs> γραπτέον κατα τὸν χαρακτηρα τῶν εἰς τη ληγόντων ἐπιρρημάτων καὶ διελέγχει ἡ παράδοσις <persName n="urn:cite2:hmt:pers.v1:pers16">τὸν Ἀρίσταρχον</persName> ἔχουσα <choice><sic>τῷ</sic><corr>τὸ</corr></choice> <rs type="waw">ϊ</rs> ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="273r_5" type="scholion">
+                        <div n="lemma">
+                            <p> ἐπεὶ περιδέξιος: </p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.163</p>
+                        </div>
+                        <div n="comment">
+                            <p> ἄμεινον συνθετως ἀναγινώσκειν ὡς <q>ἐπιδέξιος</q> καὶ ἀμφιδέξιος ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="273r_6" type="scholion">
+                        <div n="lemma">
+                            <p> τὸν δέ με φασί, </p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.159</p>
+                        </div>
+                        <div n="comment">
+                            <p> ὁ <choice><sic>Ἀσκαλωνιτὴς</sic><corr>Ἀσκαλωνίτης</corr></choice> ἐκ πλήρους λαμβάνει τὴν ἀντωνυμίαν καὶ ὀρθοτονεῖ εἰσὶ μέντοι οἳ ἀπολύτως ἀνέγνωσαν: ὅμοιον δέ εστιν τὸ ἐν <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"></ref>Οδυσσείᾳ</title> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:1.215</ref><q>μήτηρ μεν τέ <add>με</add> φησὶ τοῦ εμεναι</q></cit>: καὶ οὐδέν ἕστι τὸ κωλύον ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="273r_7" type="scholion">
+                        <div n="lemma">
+                            <p> ῥῆξε σάκος: </p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.165</p>
+                        </div>
+                        <div n="comment">
+                            <p> ὅτι ἄτρωτα τὰ Ἡφαιστότευκτα ὅπλα. ἡ δε ἀναφορὰ προς τοὺς ηθετημένους ἐν τῆ προ ταύτης ῥαψωδίᾳ, <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:20.269</ref><q>ἀλλα δύο μὲν ἔλασσε δια πτύχας</q></cit> ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="273r_8" type="scholion">
+                        <div n="lemma">
+                            <p> τῷ δ' ἑτέρῳ μιν: </p>
+                        </div>
+                        <div n="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.1</p>
                         </div>
                         <div n="comment">
-                            <p>  <persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρίσταρχος</persName> ἀποκοπὴν εἶναι βούλεται τοῦ ἁμαρτήδην ὅ ἐστιν ἅμα διὸ καὶ χωρὶς τοῦ <rs type="waw">ϊ</rs> γράφεται: ἐν δὲ <placeName n="urn:cite2:hmt:place.v1:place28">τῇ Μασσαλιωτικῇ</placeName> <q>ὁ δ' ἁμαρτῇ δούρασιν ἄμφω</q> καὶ λόγον ἔχει ⁑</p>
+                            <p> ὅτι ἀρχαϊκος πάλιν τὸν πῆχυν αὐτὸν ἔβαλεν οὐχι τὸν πῆχυν αὐτοῦ, ὑπο μόνου δε τούτου <rs type="waw">ι</rs> <persName n="urn:cite2:hmt:pers.v1:pers1">Αχιλλεὺς</persName> τιτρώσκεαι ⁑</p>
                         </div>
                     </div>
 
@@ -879,7 +938,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.88</p>
                         </div>
                         <div n="comment">
-                            <p>※ ἐν <title>τῇ Μασσαλιωτικῇ</title>
+                            <p>※ ἐν <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001"></ref><placeName n="urn:cite2:hmt:place.v1:place28">τῇ Μασσαλιωτικῇ</placeName></title>
                                 <q>πολλῶν τὲ καὶ ἄλλων</q></p>
                         </div>
                     </div>
@@ -1055,7 +1114,7 @@
                         </div>
                         <div n="comment">
                             <p> ἐν ἄλλῳ 
-                            <cit><ref>urn:cts:greekLit:tlg0012.tlg001.msA:21.143</ref><q>τῇ γάρ ῥ' ἐμίγη</q></cit> ⁑ </p>
+                            <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.143</ref><q>τῇ γάρ ῥ' ἐμίγη</q></cit> ⁑ </p>
                         </div>
                     </div>
 
