@@ -762,6 +762,65 @@
                             <p> ὅτι ἀρχαϊκος πάλιν τὸν πῆχυν αὐτὸν ἔβαλεν οὐχι τὸν πῆχυν αὐτοῦ, ὑπο μόνου δε τούτου <rs type="waw">ι</rs> <persName n="urn:cite2:hmt:pers.v1:pers1">Αχιλλεὺς</persName> τιτρώσκεαι ⁑</p>
                         </div>
                     </div>
+                    <div n="273r_9" type="scholion">
+                        <div n="lemma">
+                            <p> δεύτερος αῦτ' Ἀχιλεὺς </p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.169</p>
+                        </div>
+                        <div n="comment">
+                            <p> ὅτι <persName n=""><choice><abbr>Ζηνοδοτ</abbr><expan>Ζηνοδοτος</expan></choice></persName> γράφει ἰθυπτίωνα <unclear>δι</unclear>α τὸ κτεδόνας λέγεσθαι τῶν ξύλων τὰς γραμματοειδεῖς διαφύσεις παρέλκει δὲ νῦν τὸ περι της του ξυλου φύσεως εἰπείν τὸ μέντοι ἰθυπτίω <rs type="waw">ν</rs> εἰς <unclear>ευθὺ</unclear> φερομένην ἀναφερομενου του επαίνου εἰς τὸν ἀκοντίζοντα. <q>καὶ δ' ἄλλος τοῦ δ' ἰθὺς βελος πετετ</q> ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="273r_10" type="scholion">
+                        <div n="lemma">
+                            <p> μεσοπαγὲς δ ἄρ.</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.172</p>
+                        </div>
+                        <div n="comment">
+                            <p> ὅτι ἣν νῦν ὄχθην εἴρηκεν ἑξῆς κρημνόν, <q>οὐ δύνατ' ἐκ κρημνοῖο</q> πάντα <unclear>γ</unclear>ὰρ τὰ ὑψηλὰ ὄχθαι λέγονται ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="273r_11" type="scholion">
+                        <div n="lemma">
+                            <p> μεσσοπαλές </p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.172</p>
+                        </div>
+                        <div n="comment">
+                            <p> ἐνιοι <q>μεσσοπαγες</q>, δια τοῦ <rs type="waw">γ</rs> οὐκ εὖ βούλεται γὰρ, λέγειν <q>ἕως μέσου παλλόμενον</q> δι' οὗ τὸ σφοδρὸν τῆς βολῆς παρίστησιν. οὕτως <persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρίσταρχος</persName> ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="273r_12" type="scholion">
+                        <div n="lemma">
+                            <p> <persName n="urn:cite2:hmt:pers.v1:pers1"><choice><sic>Πλείδης</sic><corr>Πηλείδης</corr></choice></persName> δ' ἄορ: </p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.173</p>
+                        </div>
+                        <div n="comment">
+                            <p> ὅτι ὼς περι ἑτέρου λέγει προ εἰπὼν <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.169"</ref><q>δευτερος αὐτ' Ἀχιλλεύς</q></cit> ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="273r_13" type="scholion">
+                        <div n="lemma">
+                            <p> ᾶλτ' ἐπί οἱ </p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.174</p>
+                        </div>
+                        <div n="comment">
+                            <p> ἡ <rs type="waw">οι</rs> ἀντωνυμία ἀπόλυτός ἐστι καὶ ἐγκλιτικὴ διὸ τῆς <rs type="waw">επι</rs> προθέσεως τὸ τέλος ὀξύνουσιν ⁑</p>
+                        </div>
+                    </div>
 
 
                     
