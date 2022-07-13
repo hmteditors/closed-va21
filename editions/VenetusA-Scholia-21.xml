@@ -830,7 +830,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.185</p>
                         </div>
                         <div n="comment">
-                            <p> ὅτι περισσὸς ὁ πέρ ὡς ἐκεῖ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:17.47</ref><q>φυγόντι περ αἰπὺν ὄλεθρον</q></cit>: ὅυτως δὲ κατα δοτικὴν ἐκγεγαῶτι ἁι <persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρισταρχου</persName> ⁑</p>
+                            <p> ὅτι περισσὸς ὁ πέρ ὡς ἐκεῖ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:17.47</ref><q>φυγόντι περ αἰπὺν ὄλεθρον</q></cit>: ὅυτως δὲ κατα δοτικὴν ἐκγεγαῶτι αἱ <persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρισταρχου</persName> ⁑</p>
                         </div>
                     </div>
 
@@ -1011,7 +1011,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.232</p>
                         </div>
                         <div n="comment">
-                            <p> ἡ <q>δείλη</q> δείελος εἴρηται ὡς ἡ εσπέρα <q>ἕσπερος</q> ὠνή, <q>ὧνος</q> χολή <q>χολος</q> τὸ δὲ ὁψὲ δύων ἐν δυσὶ μέρεσι λόγου. εἰ γὰρ ἢν σύνθετον δια του <rs type="waw">ι</rs> ἐγράφετο ὀψιδύων ὡς ὄψιμαθής <q>ὀψιτέλεστον</q>, οὕτως δὲ καὶ τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:5.272</ref><q>ὀψὲ δύοντα <placeName n="">Βοώτην</placeName></q></cit>, ταῦτα ὁ <persName n="urn:cite2:hmt:pers.v1:pers493">Ηρῳδιανος</persName> ἐν τῷ <rs type="waw">ιθ</rs> τῆς <persName n="">Καθόλου</persName> ⁑ </p>
+                            <p> ἡ <q>δείλη</q> δείελος εἴρηται ὡς ἡ εσπέρα <q>ἕσπερος</q> ὠνή, <q>ὧνος</q> χολή <q>χολος</q> τὸ δὲ ὁψὲ δύων ἐν δυσὶ μέρεσι λόγου. εἰ γὰρ ἢν σύνθετον δια του <rs type="waw">ι</rs> ἐγράφετο ὀψιδύων ὡς ὄψιμαθής <q>ὀψιτέλεστον</q>, οὕτως δὲ καὶ τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:5.272</ref><q>ὀψὲ δύοντα <rs type="astro" n="urn:cite2:astro.v1:astro12">Βοώτην</rs> </q></cit>, ταῦτα ὁ <persName n="urn:cite2:hmt:pers.v1:pers493">Ηρῳδιανος</persName> ἐν τῷ <rs type="waw">ιθ</rs> <title><ref></ref>τῆς Καθόλου</title> ⁑ </p>
                         </div>
                     </div>
 
@@ -3169,10 +3169,10 @@
                             <p/>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.542</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.541</p>
                         </div>
                         <div n="comment">
-                            <p> <choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> σφεδανόν ⁑ </p>
+                            <p> <choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> σφεδανον ⁑ </p>
                         </div>
                     </div>
 
