@@ -1,10 +1,8 @@
-# Run this dashboard from the root of the
-# github repository:
 using Pkg
-Pkg.activate(joinpath(pwd(), "dashboard"))
 Pkg.instantiate()
 
-DASHBOARD_VERSION = "0.17.0"
+
+DASHBOARD_VERSION = "0.19.0"
 
 using Dash
 using CitableBase
@@ -22,6 +20,7 @@ THUMBHEIGHT = 200
 TEXTHEIGHT = 600
 
 r = repository(pwd())
+
 
 assetfolder = joinpath(pwd(), "dashboard", "assets")
 app = dash(assets_folder = assetfolder, include_assets_files=true)
@@ -92,14 +91,18 @@ callback!(
         
         completeness = dcc_markdown(completenesshdr * completenessimg)
         
+
         accuracyhdr = "### 1.B. Verify accuracy of indexing\n*Check that the diplomatic reading and the indexed image correspond.*\n\n"
         accuracypassages = indexingaccuracy_html(r, surfurn, height=TEXTHEIGHT, strict = false)
         accuracy = dcc_markdown(accuracyhdr * accuracypassages)
         
+        orthography = ""
+        
         orthohdr = "> ## 2. Verification: orthography\n\nHighlighted tokens contain invalid characters.\n\n"
-        orthopsgs = orthographicvalidity_html(r, surfurn, strict = false)
-        orthography = dcc_markdown(orthohdr * orthopsgs,dangerously_allow_html=true)
-
+        orthopsgs = orthographicvalidity_html(r, surfurn)
+        #orthography = orthographicvalidity_html(r, surfurn)
+        orthography = dcc_markdown(orthohdr * orthopsgs, dangerously_allow_html=true)
+        
         (completeness, accuracy, orthography)
     end
 end

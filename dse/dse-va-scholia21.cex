@@ -1,7 +1,10 @@
-#!citerelationset
-urn|urn:cite2:hmt:dse.v1:e3
-label|Collection of DSE records for Upsilon 1.1 manuscript
+#!datamodels
+Collection|Model|Label|Description
+urn:cite2:hmt:dse.v1:va21scholia|urn:cite2:cite:datamodels.v1:dsemodel|Relations of text, manuscript page and documentary image for all edited texts.
 
+#!citerelationset
+urn|urn:cite2:hmt:dse.v1:va21scholia
+label|Collection of DSE records scholia to Iliad 21 in VA manuscript
 text|image|surface
 
 
